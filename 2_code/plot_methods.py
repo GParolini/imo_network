@@ -9,7 +9,7 @@ import pandas as pd
 import os
 import seaborn as sns
 import matplotlib.pyplot as plt
-import utilities as ut
+import matplotlib.pylab as py
 
 
 #Count plot of the members attendance all meetings
@@ -17,6 +17,7 @@ def count_plot_members_all(df):
      sns.set(style="darkgrid")
      sns.set(rc={"figure.figsize":(14,25)})
      sns.countplot(y="Surname", data=df, order = df["Surname"].value_counts().index)
+     
 
 #Histogram of the members attendance for interwar meetings
 def hist_members_int():
@@ -25,6 +26,45 @@ def hist_members_int():
     plt.ylabel('Surname')
     plt.xlabel('Count')
     plt.title('Attendance during interwar years')
+    return
+    
+#Plot of the age distribution
+def plot_age_members(my_dict):
+    for key in my_dict:
+        plt.scatter(my_dict[key], [key], label=key)
+    return
+    
+#Plot of the geographic distribution (nation)
+def plot_nation_members(my_dict):
+    for key in my_dict:
+        plt.scatter(my_dict[key], [key], label=key)
+        plt.xticks(fontsize=10, rotation=90)
+    return
+
+#Plot of the geographic distribution (city)
+def plot_city_members(my_dict):
+    for key in my_dict:
+        plt.scatter(my_dict[key], [key], label=key)
+        plt.xticks(fontsize=10, rotation=90)
+    return
+    
+#Plot of the field distribution
+def plot_field_members(my_dict):
+   for key in my_dict:
+        plt.scatter(my_dict[key], [key], label=key)
+        plt.xticks(fontsize=10, rotation=90)
+   return
+        
+#Pie plot of the field distribution
+#def pieplot_field_members(my_dict):
+   #fields = my_dict.values()
+   #counts = my_dict.keys()
+   #plt.figure(figsize=(10,8))      
+   #plt.pie(counts, autopct='%1.1f%%', pctdistance=0.7, shadow=True, startangle=140)
+   #plt.title("Field")
+   #plt.legend(loc="best", labels=fields )
+   #plt.axis('equal')
+   #return  
 
      
      
