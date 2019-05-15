@@ -44,7 +44,7 @@ def get_members_nation(members,df):
     for member in members:
         member_nation = []
         df_filt = df[df['Surname'] == member]
-        member_nation = df_filt.at[df_filt.index[0],'Nation (Affiliation) History']
+        member_nation = df_filt.at[df_filt.index[0],'Nation (Affiliation) Network']
         member_nation = [member, member_nation]
         
     
@@ -88,8 +88,19 @@ def get_members_field(members,df):
 
 def get_field_counts(my_dict):
     my_list = list(my_dict.values())
-    count_agr = my_list.count("Agriculture")
-    return count_agr
+    
+    counts = []
+    for value in my_list:
+        count = my_list.count(value)
+        value_count = [value, count]
+        if value_count not in counts:
+            counts.append(value_count)
+        else:
+            continue
+    
+    return counts
+    
+   
     
     
     

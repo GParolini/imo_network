@@ -1,26 +1,26 @@
-Person title (if any),Surname,Name,Born,Died,Affiliation,City (Affiliation) History,City (Affiliation) Geography,Nation (Affiliation) History,Nation (Affiliation) Geography,Role in the IMO Commission,Field of study
+Person title (if any),Surname,Name,Born,Died,Affiliation,City (Affiliation) History,City (Affiliation) Geography,Nation (Affiliation) History,Nation (Affiliation) Network,Nation (Affiliation) Geography,Role in the IMO Commission,Field of study
 "Prof
-(Director)",Angot,(Charles) Alfred,1848,1924,French Central Meteorological Bureau,Paris,Paris,France,France,President,Meteorology
-,Azzi,Girolamo,1885,1969,Italian Central Bureau of Meteorology and Geodynamics,Rome,Rome,Italy,Italy,Member,Agriculture
+(Director)",Angot,(Charles) Alfred,1848,1924,French Central Meteorological Bureau,Paris,Paris,France,France,France,President,Meteorology
+,Azzi,Girolamo,1885,1969,Italian Central Bureau of Meteorology and Geodynamics,Rome,Rome,Italy,Italy,Italy,Member,Agriculture
 "Rev Chaplain-Colonel
-(Director)",Bates,Daniel Cross,1868,1954,Dominion Meteorological Office,Wellington,Wellington,New Zealand,New Zealand,Member,Meteorology
+(Director)",Bates,Daniel Cross,1868,1954,Dominion Meteorological Office,Wellington,Wellington,New Zealand,New Zealand,New Zealand,Member,Meteorology
 "Révérend Père
-(Director)",Berloty,Bonaventure,1856,1934,Ksara Observatory,Ksara,Ksara,France (French Syria),Lebanon,Member,Meteorology
-(Chief Climatologist),Connor,Abraham James,1884,1955,Canadian Meteorological Service,Toronto,Toronto,Canada,Canada,Member,Meteorology
-,Dongier,Raphaël,1866,1929,French Central Meteorological Bureau,Paris,Paris,France,France,Member,Meteorology
-Prof Dr (Director),Fontseré i Riba,Eduardo,1870,1970,Aerological Station,Barcelona,Barcelona,Spain,Spain,Member,Meteorology
-(Director),Galbis,José,1868,1952,Spanish Meteorological Service,Madrid,Madrid,Spain,Spain,Member,Geography
-Prof,van Gulik ,Dirk,1868,1935,Wageningen Agricultural College,Wageningen,Wageningen,The Netherlands,The Netherlands,Member,Meteorology
+(Director)",Berloty,Bonaventure,1856,1934,Ksara Observatory,Ksara,Ksara,France (French Syria),France,Lebanon,Member,Meteorology
+(Chief Climatologist),Connor,Abraham James,1884,1955,Canadian Meteorological Service,Toronto,Toronto,Canada,Canada,Canada,Member,Meteorology
+,Dongier,Raphaël,1866,1929,French Central Meteorological Bureau,Paris,Paris,France,France,France,Member,Meteorology
+Prof Dr (Director),Fontseré i Riba,Eduardo,1870,1970,Aerological Station,Barcelona,Barcelona,Spain,Spain,Spain,Member,Meteorology
+(Director),Galbis,José,1868,1952,Spanish Meteorological Service,Madrid,Madrid,Spain,Spain,Spain,Member,Geography
+Prof,van Gulik ,Dirk,1868,1935,Wageningen Agricultural College,Wageningen,Wageningen,The Netherlands,The Netherlands,The Netherlands,Member,Meteorology
 "Prof
-(Director)",Hesselberg,Hans Theodor,1885,1966,Norwegian Meteorological Institute,Christiania,Oslo,Norway,Norway,Member,Meteorology
+(Director)",Hesselberg,Hans Theodor,1885,1966,Norwegian Meteorological Institute,Christiania,Oslo,Norway,Norway,Norway,Member,Meteorology
 "Prof
-(Director)",Mathias,Émile,1861,1942,Puy-de-Dôme Observatory,Clermont-Ferrand,Clermont-Ferrand,France,France,Member,Meteorology
+(Director)",Mathias,Émile,1861,1942,Puy-de-Dôme Observatory,Clermont-Ferrand,Clermont-Ferrand,France,France,France,Member,Meteorology
 "Prof
-(President)",Mercanton,Paul Louis,1876,1963,Swiss Geophysical Society and University of Lausanne,Lausanne,Lausanne,Switzerland,Switzerland,Member,Meteorology
-(Inspector general),Rey,Pierre,1876,1946,Agricultural Meteorological Service,Paris,Paris,France,France,Member,Agriculture
-Captain (Director),Ryder,Carl H.,1858,1923,Danish Meteorological Institute,Copenhagen,Copenhagen,Denmark,Denmark,Member,Meteorology
-Dr,Shutt,Frank Thomas,1859,1940,Dominion Experimental Farm,Ottawa,Ottawa,Canada,Canada,Member,Agriculture
-Dr,Taylor,Thomas Griffith,1880,1963,Commonwealth Meteorological Service,Melbourne,Melbourne,Australia,Australia,Member,Geography
+(President)",Mercanton,Paul Louis,1876,1963,Swiss Geophysical Society and University of Lausanne,Lausanne,Lausanne,Switzerland,Switzerland,Switzerland,Member,Meteorology
+(Inspector general),Rey,Pierre,1876,1946,Agricultural Meteorological Service,Paris,Paris,France,France,France,Member,Agriculture
+Captain (Director),Ryder,Carl H.,1858,1923,Danish Meteorological Institute,Copenhagen,Copenhagen,Denmark,Denmark,Denmark,Member,Meteorology
+Dr,Shutt,Frank Thomas,1859,1940,Dominion Experimental Farm,Ottawa,Ottawa,Canada,Canada,Canada,Member,Agriculture
+Dr,Taylor,Thomas Griffith,1880,1963,Commonwealth Meteorological Service,Melbourne,Melbourne,Australia,Australia,Australia,Member,Geography
 "Dr
-(Director)",Wallén,Axel Wilhelm,1877,1935,Swedish Hydrographical and Meteorological Service,Stockholm,Stockholm,Sweden,Sweden,Member,Meteorology
-,Whipple,Francis John Welsh,1876,1943,British Meteorological Office,London,London,Great Britain,Great Britain,Member,Meteorology
+(Director)",Wallén,Axel Wilhelm,1877,1935,Swedish Hydrographical and Meteorological Service,Stockholm,Stockholm,Sweden,Sweden,Sweden,Member,Meteorology
+,Whipple,Francis John Welsh,1876,1943,British Meteorological Office,London,London,Great Britain,Great Britain,Great Britain,Member,Meteorology

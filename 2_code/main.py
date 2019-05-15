@@ -102,7 +102,6 @@ ut.print_plot(fig8, "plot_nation_members_post.png")
 
 #Get cities all members
 city_all = pr.get_members_city(members_all,df)
-print(city_all)
 ut.printdict_csv_printouts (city_all, "members_all_city.csv")
 
 #Plot cities all members 
@@ -151,7 +150,7 @@ ut.print_plot(fig14, "plot_field_members_post.png")
 
 #Get value counts fields all years
 field_counts_all = pr.get_field_counts(field_all)
-ut.print_csv_printouts (field_counts_all, "field_counts_all.csv")
+ut.print_txt_printouts (field_counts_all, "field_counts_all.txt")
 
 
 
