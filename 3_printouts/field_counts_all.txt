@@ -1,4 +1,0 @@
-[['Meteorology'], 83]
-[['Agriculture'], 42]
-[[nan], 2]
-[['Geography'], 5]
